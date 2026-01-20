@@ -7,6 +7,26 @@ I am currently studying **Cybersecurity** at *Lycée Guillaume Kroll* and workin
 * 🧰 **Tech Stack:** Python, JavaScript, SQL, PHP, Cisco Packet Tracer
 * 📫 **Contact:** alexsequ@outlook.com | LinkedIn: Sequeira Alex
 
+  
+## Studies & Education
+
+* 🎓 **BTS in Cybersecurity**
+  *Lycée Guillaume Kroll (LGK)*
+
+  * Focus on cybersecurity fundamentals, networking, and IT systems
+  * Currently enrolled
+
+* 🎓 **Diplôme de Technicien en Informatique**
+  *Lycée des Arts et Métiers (LAM)*
+
+  * IT systems, programming basics, and networking
+  * Diploma obtained
+ 
+## Certifications
+
+* 🏅 **Microsoft Word Expert** — Microsoft
+* 🏅 **Microsoft PowerPoint** — Microsoft
+
 ## What I'm Working On
 
 * 🎓 Completing a **BTS in Cybersecurity** at Lycée Guillaume Kroll
