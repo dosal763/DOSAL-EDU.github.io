@@ -1,21 +1,31 @@
-# DOSAL-EDU.github.io
 # Hi, I'm Sequiera Nobrega Alex 👋
 
-Presently, I'm studying cybersecurity at Lycée Guillaume Kroll and working at New Yoker Mersch as a part-time.
+I am currently studying **Cybersecurity** at *Lycée Guillaume Kroll* and working part-time at **New Yorker Mersch**. I am passionate about technology, security, and continuous learning, and I am building a strong foundation for a career in IT and cybersecurity.
 
-- 🌍 Based in: Bissen, Luxembourg
-- 💼 Interested in: Cybersecurity, Sports, Video Games, Music 
-- 🧰 Tech: Python, JavaScript, SQL, PHP, Cisco Packet Tracer 
-- 📫 Contact: alexsequ@outlook.com | Sequeira Alex 
+* 🌍 **Based in:** Bissen, Luxembourg
+* 💼 **Interests:** Cybersecurity, Networking, Software Development
+* 🧰 **Tech Stack:** Python, JavaScript, SQL, PHP, Cisco Packet Tracer
+* 📫 **Contact:** alexsequ@outlook.com | LinkedIn: Sequeira Alex
 
-## What I'm working on now
-- Finishing the Cybersecurity BTS at Lycée Guillaume Kroll
-- Bachelor's Degree in Computer Science 
-- Learning Japanese 
+## What I'm Working On
+
+* 🎓 Completing a **BTS in Cybersecurity** at Lycée Guillaume Kroll
+* 📚 Planning to pursue a **Bachelor’s Degree in Computer Science**
+* 🌱 Expanding my knowledge in networking, security fundamentals, and scripting
+* 🗾 Learning **Japanese** as a personal challenge
 
 ## Skills
-- Languages: Portuguese, English, German, French, Luxembourgish 
-- Tools: Cisco Packet Tracer, PHPmyAdmin 
 
+* 🌐 **Languages:** Portuguese (native), Luxembourgish (native), English, German, French, 
+* 🛠 **Tools & Technologies:** Cisco Packet Tracer, phpMyAdmin, Git, SQL
+
+## Hobbies & Interests
+
+* 🏃‍♂️ Sports and staying active
+* 🎮 Video games and game culture
+* 🎵 Music (listening and discovering new genres)
+* 🌍 Languages and cultures
+  
 ---
-⭐️ Feel free to check out my repositories and connect!
+
+⭐️ Feel free to explore my repositories and connect with me!
