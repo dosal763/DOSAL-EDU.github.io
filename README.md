@@ -23,7 +23,7 @@ I am currently studying **Cybersecurity** at *Lycée Guillaume Kroll* and workin
   * Diploma obtained
  
 ## Certifications
-
+* 🏅 **Microsoft Word** — Microsoft
 * 🏅 **Microsoft Word Expert** — Microsoft
 * 🏅 **Microsoft PowerPoint** — Microsoft
 
